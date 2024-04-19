@@ -1,4 +1,7 @@
-# Tables with color
+-- Tables with color --
+
+![table1](https://github.com/nmirabeth/filters_biometrics/assets/48354399/d865bc8a-9368-4a03-8550-66c646d61dc7)
+
 
 Table 1: Works addressing the impact of beautification in different manners. We select a representative set of papers based on the date of publication and number of citations. We present three pieces of research per beautification type.
 
@@ -21,7 +24,7 @@ Table 9: Assessment of the impact of SN filters on HR estimation on FFMF-COHFACE
 Table 10: Impact of each filter on the analyzed facial processing tasks. The filters are ranked from lower to higher aggressivity according to SSIM values and the impact is measured by taking the compressed images as a baseline.
 
 
-# References
+-- References --
 
 [1] S. Ueda and T. Koyama, “Influence of make-up on facial recognition,” Perception, vol. 39, no. 2, pp. 260–264, 2010
 
