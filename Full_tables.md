@@ -1,25 +1,45 @@
--- Tables with color --
+# Tables with color
+
+-- Best performances in green and worst in red --
 
 ![table1](https://github.com/nmirabeth/filters_biometrics/assets/48354399/d865bc8a-9368-4a03-8550-66c646d61dc7)
 
 
 Table 1: Works addressing the impact of beautification in different manners. We select a representative set of papers based on the date of publication and number of citations. We present three pieces of research per beautification type.
 
+![table2](https://github.com/nmirabeth/filters_biometrics/assets/48354399/5abad4e1-411b-4fd0-b45a-69a789fcbdfd)
+
 Table 2: Overview of categories and face features modified by filters from Instagram, Snapchat, and TikTok. All filters except ”Thinner face” include Colour Adjustment (CA).
+
+![table3](https://github.com/nmirabeth/filters_biometrics/assets/48354399/dd9dadad-1838-437b-8449-9864a0954dbf)
 
 Table 3: SSIM coefficient between the original and processed images of the FFMF extended database. Results are apportioned by gender: female (F) and male (M).
 
+![table4](https://github.com/nmirabeth/filters_biometrics/assets/48354399/cfb7e2b4-da5d-43a7-af2c-90979bd4dc13)
+
 Table 4: Assessment of the impact of beautification filters on face verification. Accuracy, corresponding standard deviation (±) and the Area Under the ROC Curve (AUC) are reported. The higher the value, the better.
+
+![table5](https://github.com/nmirabeth/filters_biometrics/assets/48354399/a919eeed-21a4-4e5e-b669-0d47b18719cb)
 
 Table 5: Assessment of the impact of beautification filters on face verification. Performances are reported in terms of FNMR (%) at fixed values of FMR. The lower the value, the better.
 
+![table6](https://github.com/nmirabeth/filters_biometrics/assets/48354399/43c51e7a-d57d-4c8c-9422-016828e66d05)
+
 Table 6: Assessment in terms of classification accuracy of the impact of beautification filters on gender classification. The higher the value, the better.
+
+![table7](https://github.com/nmirabeth/filters_biometrics/assets/48354399/f361ee9f-af1c-4fc0-a29c-b0d7d8d8635f)
 
 Table 7: Assessment of the impact of beautification filters on age estimation. The lower the Mean, SD and MAE, the better. The higher the ρ, the better.
 
+![table8](https://github.com/nmirabeth/filters_biometrics/assets/48354399/be812290-b56b-4d4c-9e53-f2ddd4615222)
+
 Table 8: Assessment of the impact of SN filters on weight estimation on the FFMF-VIP. The lower the Me, SD and MAE, the better. The higher the ρ and PAP, the better.
 
+![table9](https://github.com/nmirabeth/filters_biometrics/assets/48354399/a89a4edf-05dd-431d-9244-c74e4a6e0ee5)
+
 Table 9: Assessment of the impact of SN filters on HR estimation on FFMF-COHFACE. The lower the SD and MAE, the better. The higher the ρ, the better
+
+![table10](https://github.com/nmirabeth/filters_biometrics/assets/48354399/db239b1a-7b06-421b-b1e3-7946ac94f47d)
 
 Table 10: Impact of each filter on the analyzed facial processing tasks. The filters are ranked from lower to higher aggressivity according to SSIM values and the impact is measured by taking the compressed images as a baseline.
 
