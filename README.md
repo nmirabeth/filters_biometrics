@@ -16,6 +16,13 @@ When content is uploaded to SNs, it goes through operations such as compression,
 
 More information on how to obtain the FFMF database can be found at: https://ffmf.eurecom.fr/
 
+### Image differences
+
+![differences](https://github.com/nmirabeth/filters_biometrics/assets/48354399/06eeb0f4-b5cf-4053-bdbb-b16780575c5a)
+
+From left to right top row: Original image, Thinner_face (Instagram filter), Mellow_glow (Snapchat filter) and Belle (Tiktok filter). 
+Differences between original and filtered images are displayed in the bottom row. Changes are not easily noticeable by the naked eye.
+
 # Technologies evaluated
 
 ### Face verification
