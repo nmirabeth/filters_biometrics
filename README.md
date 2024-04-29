@@ -84,6 +84,10 @@ Table 7: Assessment of the impact of beautification filters on age estimation. T
 
 Table 8: Assessment of the impact of SN filters on weight estimation on the FFMF-VIP. The lower the Me, SD and MAE, the better. The higher the ρ and PAP, the better.
 
+![weight_apportioned](https://github.com/nmirabeth/filters_biometrics/assets/48354399/d3c9f6cf-c5c9-4770-b919-012c47398a7b)
+
+Table 8b: Assessment of the impact of SN filters on weight estimation on the FFMF-VIP apportioned by gender. The lower the Me, SD and MAE, the better. The higher the ρ and PAP, the better.
+
 ![table9](https://github.com/nmirabeth/filters_biometrics/assets/48354399/a89a4edf-05dd-431d-9244-c74e4a6e0ee5)
 
 Table 9: Assessment of the impact of SN filters on HR estimation on FFMF-COHFACE. The lower the SD and MAE, the better. The higher the ρ, the better
