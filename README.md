@@ -1,6 +1,6 @@
 # Impact of social media filters in Biometrics 
 
-This is the official repository of "Facial Biometrics in the Social Media Era: An in-Depth Analysis of the Challenge Posed by Beautification Filters" submitted to IEEE Transactions on Biometrics, Behavior, and Identity Science.
+This is the official repository of "Facial Biometrics in the Social Media Era: An in-Depth Analysis of the Challenge Posed by Beautification Filters" published in IEEE Transactions on Biometrics, Behavior, and Identity Science.
 
 Automatic beautification through social media filters has gained popularity in recent years. Users apply face filters to adhere to beauty standards, posing challenges to the reliability of facial images and complicating tasks like automatic face recognition. In this repository, we present the results of our work, where the impact of digital beautification is assessed, focusing on the most popular social media filters from three different platforms, on a range of AI-based face analysis technologies: face recognition, gender classification, apparent age estimation, weight estimation, and heart rate assessment.
 
@@ -99,7 +99,15 @@ Table 10: Impact of each filter on the analyzed facial processing tasks. The fil
 
 # Citing
 
--- Coming soon --
+ MIRABET-HERRANZ, Nelida; GALDI, Chiara; DUGELAY, Jean-Luc. Facial Biometrics in the Social Media Era: An in-Depth Analysis of the Challenge Posed by Beautification Filters. IEEE Transactions on Biometrics, Behavior, and Identity Science, 2024.
+
+@article{mirabet2024facial,
+  title={Facial Biometrics in the Social Media Era: An in-Depth Analysis of the Challenge Posed by Beautification Filters},
+  author={Mirabet-Herranz, Nelida and Galdi, Chiara and Dugelay, Jean-Luc},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+  year={2024},
+  publisher={IEEE}
+}
 
 # Acknowledgement
 
